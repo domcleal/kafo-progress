@@ -1,0 +1,10 @@
+exec { "/bin/sleep 1.0": }
+exec { "/bin/sleep 1.1": }
+exec { "/bin/sleep 1.2": }
+exec { "/bin/sleep 1.3": }
+exec { "/bin/sleep 1.4": }
+exec { "/bin/sleep 1.5": }
+exec { "/bin/sleep 1.6": }
+exec { "/bin/sleep 1.7": }
+exec { "/bin/sleep 1.8": }
+exec { "/bin/sleep 1.9": }
